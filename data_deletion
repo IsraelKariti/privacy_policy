@@ -1,0 +1,22 @@
+Data Deletion Instructions
+Last Updated: May 31, 2026
+
+If you have used our WhatsApp automation bot and wish to have your data deleted from our systems, we provide a simple way to do so.
+
+We only retain limited data (such as your WhatsApp phone number and recent message logs to keep the conversation running). If you want this information removed completely, follow these steps:
+
+How to Request Data Deletion
+Send an email to israelkariti@gmail.com.
+
+Use the subject line: WhatsApp Bot Data Deletion Request.
+
+In the body of the email, please provide the WhatsApp Phone Number (including country code) you used to interact with the bot. This is necessary so we can locate your specific data logs.
+
+What Happens Next
+Once we receive your email:
+
+We will delete your phone number, profile name, and associated message logs from our n8n database and any linked storage within 3 business days.
+
+You will receive a confirmation email once the deletion is complete.
+
+Please note that deleting your data will clear your conversation history, and interacting with the bot again in the future will create a fresh, new session.
