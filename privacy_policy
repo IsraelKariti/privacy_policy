@@ -1,0 +1,44 @@
+Privacy Policy
+Last Updated: May 30, 2026
+
+This Privacy Policy explains how we collect, use, and handle your information when you interact with our WhatsApp automation bot (the "Bot"). The Bot is built using the n8n platform and integrates with the WhatsApp Business API.
+
+By using this Bot, you agree to the terms outlined in this policy.
+
+1. Information We Collect
+We only collect information that is strictly necessary to provide and improve our automation services:
+
+WhatsApp Phone Number: To identify your chat session and send you responses.
+
+Profile Name: The public name associated with your WhatsApp account.
+
+Message Content: The text, media, or commands you send to the Bot so that our automated workflows (via n8n) can process and answer your requests.
+
+2. How We Use Your Information
+We use the collected data solely to:
+
+Respond to your messages and execute the automated tasks you request.
+
+Maintain the technical functionality and performance of the Bot.
+
+3. Data Infrastructure and Third Parties
+Your data is processed safely and is never sold to third parties. It flows through the following secure pipelines:
+
+Meta/WhatsApp: Messages are transmitted through Meta’s official WhatsApp Business API infrastructure and are subject to the Meta Privacy Policy.
+
+n8n Workflow Automation: Our backend workflows process your requests securely.
+
+Data Hosting: Any temporary or permanent storage used to keep track of your session or preferences is securely hosted and password-protected.
+
+4. Data Retention
+We only keep your message data for as long as necessary to fulfill the automated services or as required by law. Chat histories within the automation logs are routinely cleared.
+
+5. Your Rights
+You can stop interacting with the Bot at any time. If you wish to request the deletion of any personal data or chat logs associated with your phone number, please contact us at the email address below.
+
+6. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: israelkariti@gmail.com
+
+Business Name: Code Will Save Humanity
